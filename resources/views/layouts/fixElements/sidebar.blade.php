@@ -51,7 +51,7 @@
                         3
                       </span>
                     </a>
-                  <a href="#" class="text-gray-600  hover:bg-green-50 group flex items-center px-2 py-3 text-sm font-medium">
+                  <a href="{{ route('admin-parents') }}" class="text-gray-600  hover:bg-green-50 group flex items-center px-2 py-3 text-sm font-medium">
                       <!-- Heroicon name: outline/users -->
                       
                       <span class="flex-1 font-bold uppercase pl-10 ">
@@ -63,7 +63,7 @@
                         3
                       </span>
                     </a>
-                  <a href="#" class="text-gray-600  hover:bg-green-50 group flex items-center px-2 py-3 text-sm font-medium">
+                  <a href="{{ route('admin-parents') }}" class="text-gray-600  hover:bg-green-50 group flex items-center px-2 py-3 text-sm font-medium">
                       <!-- Heroicon name: outline/users -->
                       
                       <span class="flex-1 font-bold uppercase pl-10 ">
@@ -75,7 +75,7 @@
                         3
                       </span>
                     </a>
-                  <a href="#" class="text-gray-600  rounded-b-md hover:bg-green-50 group flex items-center px-2 py-3 text-sm font-medium">
+                  <a href="{{ route('admin-students') }}" class="text-gray-600  rounded-b-md hover:bg-green-50 group flex items-center px-2 py-3 text-sm font-medium">
                       <!-- Heroicon name: outline/users -->
                       
                       <span class="flex-1 font-bold uppercase pl-10 ">
